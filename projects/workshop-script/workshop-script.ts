@@ -4,7 +4,8 @@ import { AlgorandClient, algo } from "@algorandfoundation/algokit-utils";
 // Uncomment the code below one step at a time to follow along with the tutorial
 
 async function main(): Promise<void> {
-  console.log("👋 Enjoy this TypeScript Utils tutorial by the Developer Relations team!");
+  console.log("👋 Enjoy this TypeScript Utils tutorial by the Developer Relations team!") 
+  ;
 
   // -------------------------------- Step 1 -------------------------------- #
   // Initialize an Algorand Client that will be used to interact with the chain
